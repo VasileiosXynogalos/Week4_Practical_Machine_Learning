@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Coursera-Assignment-Week-4-----Practical-Machine-Learning/README.md at master · sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning</title>
+  <title>Coursera-Assignment-Week-4-----Practical-Machine-Learning/Practical_ML_Course_Project.md at master · sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning</title>
     <meta name="description" content="Contribute to sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -43,10 +43,10 @@
   
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/70195652/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MDE5NTY1MiwicyI6NTczNzQyNzEwLCJjIjoyMDQ4NDA3NDA2LCJ0IjoxNjAxMTg1MjQ5fQ==--d466812f30d888edf64e1c90405bf2f32ed817acded18a6cac3df2a51aeae36f" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/70195652/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MDE5NTY1MiwicyI6NTczNzQyNzEwLCJjIjoxNTM0NDM5MjEwLCJ0IjoxNjAxMTg1MjM5fQ==--13f1858bcf476c7afbffe7c3c73a708826ff4db543a9eca63c83a6c8a21f68c7" data-refresh-url="/_alive">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="DA00:D41F:A03D414:E9C187F:5F7025D7" data-pjax-transient="true" /><meta name="html-safe-nonce" content="c0288674f0e620d83b4251a33877304d62e6b67e" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zYWJoaTI3L0NvdXJzZXJhLUFzc2lnbm1lbnQtV2Vlay00LS0tLS1QcmFjdGljYWwtTWFjaGluZS1MZWFybmluZyIsInJlcXVlc3RfaWQiOiJEQTAwOkQ0MUY6QTAzRDQxNDpFOUMxODdGOjVGNzAyNUQ3IiwidmlzaXRvcl9pZCI6IjIyOTUxMTI4OTgyOTgxMjc0OTAiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="65c703feac77d352e58e8469628da70a799008ed0ce9db532fa3d42c23d78225" data-pjax-transient="true" /><meta name="cookie-consent-required" content="true" />
+  <meta name="request-id" content="DA00:D41F:A03CF22:E9C122F:5F7025CF" data-pjax-transient="true" /><meta name="html-safe-nonce" content="c0288674f0e620d83b4251a33877304d62e6b67e" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9zYWJoaTI3L0NvdXJzZXJhLUFzc2lnbm1lbnQtV2Vlay00LS0tLS1QcmFjdGljYWwtTWFjaGluZS1MZWFybmluZyIsInJlcXVlc3RfaWQiOiJEQTAwOkQ0MUY6QTAzQ0YyMjpFOUMxMjJGOjVGNzAyNUNGIiwidmlzaXRvcl9pZCI6IjIyOTUxMTI4OTgyOTgxMjc0OTAiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="8ee819658549c8c98f810a950e101e232eb2927d2f5ad42354b3888b4024814b" data-pjax-transient="true" /><meta name="cookie-consent-required" content="true" />
 
     <meta name="hovercard-subject-tag" content="repository:172467890" data-pjax-transient>
 
@@ -90,7 +90,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="Yzc4YjUwZmE0OGQ1Y2UyYTQ3NWIyN2E2ZmU2M2QyNDk1ZTUxZWU1ZDdhNmNkZmFhMmYxMjJmMWI0NGI3ODVlOHx7InJlbW90ZV9hZGRyZXNzIjoiOTQuNjkuNzguMjEiLCJyZXF1ZXN0X2lkIjoiREEwMDpENDFGOkEwM0Q0MTQ6RTlDMTg3Rjo1RjcwMjVENyIsInRpbWVzdGFtcCI6MTYwMTE4NTI0OSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZDNmMDIyMjE2ODg2OWQ0OThlYTIwMjM0NWI2NTdmMTcwMjQyN2UxMjllMDFhMzM4ZmI2YjQ0MjU4YWNlMTRjMnx7InJlbW90ZV9hZGRyZXNzIjoiOTQuNjkuNzguMjEiLCJyZXF1ZXN0X2lkIjoiREEwMDpENDFGOkEwM0NGMjI6RTlDMTIyRjo1RjcwMjVDRiIsInRpbWVzdGFtcCI6MTYwMTE4NTIzOSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,PRESERVE_STALE_COMMENTS">
 
@@ -104,7 +104,7 @@
   <meta name="octolytics-dimension-user_id" content="34674135" /><meta name="octolytics-dimension-user_login" content="sabhi27" /><meta name="octolytics-dimension-repository_id" content="172467890" /><meta name="octolytics-dimension-repository_nwo" content="sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="172467890" /><meta name="octolytics-dimension-repository_network_root_nwo" content="sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -176,7 +176,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="pqZyD8HdHMZMdGCdRr1UXCJ2aDXlTra/x/EIxQ+pLVFI4lqfRmSZ2yt/Zo+BytuJU2puqJ46LFyd10bO8EvurQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="CgDrUuUtHSI06hAYOWggizkZg9BqM1kBhaQ7PX2MpprkRMPCYpSYP1PhFgr+H69eSAWFTRFHw+LfgnU2gm5lZg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -328,7 +328,7 @@
       <img class="avatar avatar-user" src="https://avatars2.githubusercontent.com/u/70195652?s=40&amp;v=4" width="20" height="20" alt="@VasileiosXynogalos" />
       VasileiosXynogalos
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4B2xjw0WTVf07EcU587Ow0W9E1I/P7EMSdggjnnxCSeKnuJ2I3DwkG/4r9eRW2Fp70ZKqc7FYTNjCVFEB3T7vw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JlynrmJ+NXScSoCzSw9E4TmC3z3qQyLVC0oNolJxkFxM3/RXTBiIswdeaHA9mutLk3mGxhu58uohm3xoLPRixA==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -348,7 +348,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
       
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzAxOTU2NTIiLCJ0IjoxNjAxMTg1MjQ5fQ==--31d8abc4607c290907a54b6961597f9c226320f428233a1696c74fab3322632a">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzAxOTU2NTIiLCJ0IjoxNjAxMTg1MjM5fQ==--c7b28fd1e928aeea7328a30f2856055c10f603f198a55b402b8e1127966823b2">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -431,7 +431,7 @@
   data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:34674135,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:70195652,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;}}" data-hydro-click-hmac="ed3a8d26440ae414e0f41fb5b13af268cdce2bf653c60a020a0096d84441a264">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:34674135,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:70195652,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;}}" data-hydro-click-hmac="242297b23c4ce4e4f9a65bef38d77f649ddae5c35175cfad0762f5f02a75b2d3">
       <div class="d-flex flex-items-center flex-items-stretch">
         <div class="f6 lh-condensed user-status-header d-flex user-status-emoji-only-header circle">
           <div class="user-status-emoji-container flex-shrink-0 mr-2 d-flex flex-items-center flex-justify-center lh-condensed-ultra v-align-bottom">
@@ -449,7 +449,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="VIQWOGZyRW6EwdSLcSrKmMzT7MHrzXKb4BeL8yxa6uQTGjrrn/M35BCLCFIrrNi71HbYN4bnvJMsDkZrOsiaMw==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="GAnhjPQQC1mW4Q6ZOMCQd0fkQ0h5L81zIXH/k5oMZwpfl81fDZF50wKr0kBiRoJUX0F3vhQFA3vtaDILjJ4X3Q==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -567,17 +567,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-09-27T09:10:49+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-09-27T09:10:39+03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-09-27T09:40:49+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-09-27T09:40:39+03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-09-27T12:40:49+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-09-27T12:40:39+03:00">
             in 4 hours
           </button>
         </li>
@@ -613,24 +613,24 @@
       </div>
       <div role="none" class="dropdown-divider"></div>
 
-    <a role="menuitem" class="dropdown-item" href="/VasileiosXynogalos" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="19595944ea8b151021eb3d57b24e26afab8bdf1540058e1153439bc7ddf71ed3" >Your profile</a>
+    <a role="menuitem" class="dropdown-item" href="/VasileiosXynogalos" data-ga-click="Header, go to profile, text:your profile" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;YOUR_PROFILE&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="d11d5a08e23b9780a69769965d3d17626d16a6f9406e60f75654879f8781e77c" >Your profile</a>
 
-    <a role="menuitem" class="dropdown-item" href="/VasileiosXynogalos?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="857a2e6b7869b76b07d874c516a4b244d0e8a95ae1b0d9beccc1dffb446eb453" >Your repositories</a>
-
-
-
-    <a role="menuitem" class="dropdown-item" href="/VasileiosXynogalos?tab=projects" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="895bbf2a6fdaf3a769d407e590c2b31c2956f3d2564820d12aaf67f39029b922" >Your projects</a>
+    <a role="menuitem" class="dropdown-item" href="/VasileiosXynogalos?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="b6ac311d2c9eeffd4cee74fbaf95dd464041c5763076451d1bd5badf807e87f8" >Your repositories</a>
 
 
-    <a role="menuitem" class="dropdown-item" href="/VasileiosXynogalos?tab=stars" data-ga-click="Header, go to starred repos, text:your stars" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;YOUR_STARS&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="9f9e89cd2e077028010c70ed5e8f69bc5f7ff7cafc3f9a7079de90b7e6619fdc" >Your stars</a>
-      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;YOUR_GISTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="3817c9e2224a0997589ff51f6bc9fb49dbabb3a7f1ba88481aa125b602120406" >Your gists</a>
+
+    <a role="menuitem" class="dropdown-item" href="/VasileiosXynogalos?tab=projects" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="413fa31c1e083a30f61e1e53d27a22010674ea732b1ee031e65827b3e4764112" >Your projects</a>
+
+
+    <a role="menuitem" class="dropdown-item" href="/VasileiosXynogalos?tab=stars" data-ga-click="Header, go to starred repos, text:your stars" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;YOUR_STARS&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="8af52756db5fbb2721ebc1d03e6e75fcce21d641343956242df18487e931ec0e" >Your stars</a>
+      <a role="menuitem" class="dropdown-item" href="https://gist.github.com/mine" data-ga-click="Header, your gists, text:your gists" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;YOUR_GISTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="1ba0525b469dbc85c4c7b80632ec1c9f9c4e1a43fd633fb35be01216ff6a2ca8" >Your gists</a>
 
 
 
 
 
     <div role="none" class="dropdown-divider"></div>
-      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="bf93e8bb73659a44a79e80d77e94e041b4cb999f661d03928ee32be6cf1dd1fa" >Upgrade</a>
+      <a role="menuitem" class="dropdown-item" href="/settings/billing" data-ga-click="Header, go to billing, text:upgrade" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;UPGRADE&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="feb8a3e8b6891e2fe32e05d6da299dfe6a463d8eb77e495c5b8ff46952a94ccd" >Upgrade</a>
       
 <div id="feature-enrollment-toggle" class="hide-sm hide-md feature-preview-details position-relative">
   <button
@@ -638,24 +638,24 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/VasileiosXynogalos/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}"
-    data-feature-preview-close-hmac="8510bee0ff46307addf5ed381297de1c5447f41092e8c3115c762ad425e9d6e2"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}"
-    data-hydro-click-hmac="50b410d538ca518182ede0bbe8d46e9a33a1e20694e598dfcaca19ec9cc4d5d9"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}"
+    data-feature-preview-close-hmac="cffcd6cec6f5b62fc7aa4b2e263f99e954bda12b34f47d378e703758243d4115"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}"
+    data-hydro-click-hmac="190aff33e3f9bb88c89dd64971ddc71209545bca0fb0292459d9457cc5e9b5ff"
   >
     Feature preview
   </button>
     <span class="feature-preview-indicator js-feature-preview-indicator" hidden></span>
 </div>
 
-    <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="62f7c6f0b15833c3254b2ad8a5ac17a4daf5320abf52e463887122a60fd2d231" >Help</a>
-    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="2a420898c9e6bd4fa95c4a45b7ff1103cceb341c66b8c5d11961345a7bf57dab" >Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="C7klhEQMmbRSmMmYfa9w4KlRTg0On0PaweBJaoVHX2NhOnZ9amokc8mMIVsLOt9KA6oX9v9lk+XrMTig+8Kt+w==" />
+    <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="f4b85a830b91b6f5daf74385794c2cfdf42f07abcb3ea36718529a0d2b2e8ec8" >Help</a>
+    <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="1d5ba5f23215e2381d5869cf5c07716b1be26a2479cad82de13df7260624016d" >Settings</a>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KW4AMFTfv7Nkx4xmVY47Cw9Em3i65lJiHDDzy4X1FE9D7VPJerkCdP/TZKUjG5Shpb/Cg0scgl024YIB+3Dm1w==" />
       
-      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="6a5c282d3e705b206c57da71b6e1d202e14e3fb87fa80fa3f25beca0791cc8b3"  role="menuitem">
+      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="35d8cdf4c54336c5b35b7a358b21f093521c6b1db4f982dcaf93bc403a5b6cdf"  role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_7f47" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1601185249497" class="form-control" /><input type="hidden" name="timestamp_secret" value="7814a457375e5d8706da1f2170af882bb057dc3c9a5379d342f8114f8cc2f0d9" class="form-control" />
+      <input type="text" name="required_field_11ee" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1601185239815" class="form-control" /><input type="hidden" name="timestamp_secret" value="0971c893b7a858564a9834e505588e11b71115bcc32d87e61e3fd0437a5c0acc" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -740,10 +740,10 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YodT6nCI/SS/sVH/Y3a5gTDtLgMdpdmDigDRy6OOlj/G+XdGTSeySzzy6dqAqxxYf2ecu7GigXn/IHjCeg8QeA==" />      <input type="hidden" name="repository_id" value="172467890">
+            <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zyKq2QuOqvfQQHkbHXsvkLQPIy0C6hrudbEytVxPziFrXI51NiHlmFMDwT7+popJ+4WRla7tQhQAkZu8hc5IZg==" />      <input type="hidden" name="repository_id" value="172467890">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
-        <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="9f8d4571b0a4708fc862f78df06b332e79c4e87a4ce37e4951fecd5b7473e75e" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="27eb90fa0d3553234647d91da41e5584ef335091a97ef83c5b3153ae7ca348a4" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg height="16" class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
               Watch
           </span>
@@ -815,18 +815,18 @@
 
   <li>
         <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9MTFFm5783FfKIhtTmsTdg4WllTtP/EmKQwGeu6KyXfMwNSoTfOXBU7uo3KBaDmqliQXW77GmEuskY4Mug4wFg==" />
+    <form class="starred js-social-form" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pAVHoj+TnKiihRdSsPnH+mydbBFlXehkvjJX8s1f12ecAVYcHBv43LNDPE1/+u0m9K/tHjakgQk7r9+EmdsuBg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="73857249966544defc39e5963c48c98e2509f523bca72d5fe8b55d5777260fdc" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="2c9793639e3cf0864f40a9935010b5ed698b3123fc3a96a4637f5b0766a5705c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9u0vLhFq5MkVuba6azogx/L656YnAVEK23DKFPTo3I6HTDfV6MmnciftGVmvJC67bd4l8RcbRxNk32oq6YjYWg==" />
+    <form class="unstarred js-social-form" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ReWUU51v5agsAwBlxtgh5JEyMss5x0QlCJ2c02LfNbA0RIyoZMymEx5Xr4YCxi+YDhbwnAndUjy3Mjztf78xZA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="05828df64bd2d4ab5fac06e2ae1eee7eb046ffcce2faf7ea21192e073ede214a" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="25bd73693b09117f0ec053380730f4b4c7635b677633e1f7a9eada6850b47ec6" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/stargazers"
            aria-label="0 users starred this repository">
@@ -837,8 +837,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="x9To9L8McqI1V4hUIiG7Td8nkCXBlSGpytcCZjXgn9QEVpUFeB8p6X+L2KqlpU6QKaqQPBN+N/ASmMEHGtWwHw==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="674975a54e9c20bb50e0a446f0acf51d5d0737d6f37cfe46fc5bffec084b5f6d" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning to your account" aria-label="Fork your own copy of sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7JYpvzgIBXsN3qPuQL303o4RfJgHDMmpbxSmCGLwKb4vFFRO/xteMEcC8xDHOQEDeJx8gdXn3/C3W2VpTcUGdQ==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="ebd26ce4102026cceefa80f893c2d5623c1deef6b0c05a1f72a4aa1d6361d08f" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning to your account" aria-label="Fork your own copy of sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
       <a href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/network/members" class="social-count"
@@ -960,9 +960,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/efe82d43ee069df3c283bce05d903d67fb58d7b8/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/efe82d43ee069df3c283bce05d903d67fb58d7b8/Practical_ML_Course_Project.md">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:4ffb1242a343f88e14a59eb021fc2a6285a0e64ec2f15967c403d38d217c50b5 -->
+    <!-- blob contrib key: blob_contributors:v22:0e91f2bff4d1c0d7f06eb12ff426dc49a295cbfe9ae824a9e4d1028ef5b96d5e -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -977,7 +977,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/refs/master/Practical_ML_Course_Project.md?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -989,7 +989,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning"><span>Coursera-Assignment-Week-4-----Practical-Machine-Learning</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning"><span>Coursera-Assignment-Week-4-----Practical-Machine-Learning</span></a></span></span><span class="separator">/</span><strong class="final-path">Practical_ML_Course_Project.md</strong>
       </h2>
       <a href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1004,7 +1004,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/README.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="655f95b3eec49222649d4ce108bfa551752302963799d976108ebdc05cffc840" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:172467890,&quot;originating_url&quot;:&quot;https://github.com/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blob/master/Practical_ML_Course_Project.md&quot;,&quot;user_id&quot;:70195652}}" data-hydro-click-hmac="19fc90da5749f96c6d5687868b51cc6d8bbadec5d07fffd021482009769de163" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -1018,7 +1018,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="Practical_ML_Course_Project.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -1028,7 +1028,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/contributors/master/README.md" class="commit-loader">
+      <include-fragment src="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/contributors/master/Practical_ML_Course_Project.md" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1051,16 +1051,16 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      294 lines (228 sloc)
+      296 lines (230 sloc)
       <span class="file-info-divider"></span>
-    10 KB
+    10.1 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/raw/master/Practical_ML_Course_Project.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/blame/master/Practical_ML_Course_Project.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -1072,13 +1072,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GHbHvVaVJLjGKW31jwYjCp8WE9a9Z5V4CRCcnPpNM0p+Bo7auPXN0OHpiVka+Z97HZoUIorOJwtK9/NjTUi1JA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/edit/master/Practical_ML_Course_Project.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JvkoFW8jFBEjeg6laaMzfWnrBmj+0JD1mbQHHtqZBmGJmyuI0ccmzNtxzctXiJDxcVURml1KPXuwt6HdWC+HQQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="v6R4k0Lgu/gUGTKsX7U75004nNBWeSSj8/ShYlWJjSl7BNm3L+/1ct8qtHDvJt9LqDhhc75hRu3NunT3uT4ifg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/sabhi27/Coursera-Assignment-Week-4-----Practical-Machine-Learning/delete/master/Practical_ML_Course_Project.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fiFibLJKUe6Gu9KrRnUybChipJkF4fInC573TywUAJw2htw1gvh+grsueuwEd3x6NOCGvYS6ePjz+ki978Bvsw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1092,6 +1092,8 @@
       
   <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
     <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-predict-activity-quality-from-activity-monitors" class="anchor" aria-hidden="true" href="#predict-activity-quality-from-activity-monitors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Predict activity quality from activity monitors</h1>
+<p>Onur Akpolat<br>
+24. January 2015</p>
 <p>##Synopsis</p>
 <p>Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, your goal will be to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.</p>
 <p>The goal of this project is to predict the manner in which they did the exercise. This is the <code>classe</code> variable in the training set.</p>
